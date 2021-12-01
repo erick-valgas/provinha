@@ -1,0 +1,59 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#nome {
+    width: 30px;
+    height: 30px;
+}
+
+#dinheiro {
+    width: 22px;
+    height: 22px;
+}
+
+#hora {
+    width: 20px;
+    height: 20px;
+}
+
+#calculadora {
+    width: 35px;
+    height: 35px;
+}
+
+#branco {
+    border-color: black;
+    border-radius: 5%;
+    padding: 7px 22px;
+}
+
+#verde {
+    background-color: rgb(33, 189, 33);
+    color: white;
+    border-color: rgb(30, 161, 30);
+    border-radius: 5%;
+    padding: 7px 22px;
+}
+
+#texto {
+    font-size: 30px;
+    color: blue;
+}
+
+#titulo {
+    font-size: 33px;
+    color: blue;
+    text-align: center;
+}
+
+.caixão {
+    width: 305px;
+    height: auto;
+    clear: both;
+    overflow: hidden;
+    padding: 20px;
+    border: 2px solid blue;
+    border-radius: 3%;
+    margin-left: 750px;
+}
